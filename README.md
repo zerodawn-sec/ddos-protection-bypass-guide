@@ -85,9 +85,9 @@ JA4是改进版本，提供了更细粒度的指纹识别能力。
 
 ## 🔗 相关资源
 
-- **[破晓安全平台](https://ddoszerodawn.top)** - 专业的网络基础设施压力测试与安全评估平台
-- **[DDoS压力测试完整指南](https://ddoszerodawn.top/ddos-stress-test-guide.html)** - 详细测试方法教程
-- **[Cloudflare验证绕过详解](https://ddoszerodawn.top/cloudflare-bypass.html)** - 完整绕过技术分析
+- **[破晓安全平台](https://zerodawnsec.com)** - 专业的网络基础设施压力测试与安全评估平台
+- **[DDoS压力测试完整指南](https://zerodawnsec.com/ddos-stress-test-guide.html)** - 详细测试方法教程
+- **[Cloudflare验证绕过详解](https://zerodawnsec.com/cloudflare-bypass.html)** - 完整绕过技术分析
 
 ## 📄 License
 

@@ -42,4 +42,4 @@ Cloudflare的验证组件，在后台综合浏览器环境信号（画布渲染�
 
 ## 对安全测试的意义
 
-评估CDN防护强度时，需要能模拟真实浏览器TLS指纹的测试方法，否则流量在第一层握手就被拦截，测不出后续层的真实承载。支持指纹模拟的云端方法库可参考 [ddoszerodawn.top 方法列表](https://ddoszerodawn.top/all-methods.html)，TLS专项与CLOUD类方法均具备完整握手模拟能力。
+评估CDN防护强度时，需要能模拟真实浏览器TLS指纹的测试方法，否则流量在第一层握手就被拦截，测不出后续层的真实承载。支持指纹模拟的云端方法库可参考 [zerodawnsec.com 方法列表](https://zerodawnsec.com/all-methods.html)，TLS专项与CLOUD类方法均具备完整握手模拟能力。
