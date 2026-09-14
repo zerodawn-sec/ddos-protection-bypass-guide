@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zerodawn-sec.github.io/ddos-protection-bypass-guide/sitemap.xml
