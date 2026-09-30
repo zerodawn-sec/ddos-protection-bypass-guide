@@ -16,6 +16,7 @@ description: 专业的CDN防护验证方法、WAF绕过技术、源站发现技�
 | [Cloudflare绕过2026实测](cloudflare-bypass-2026-test.html) | CF三档防护实测结果 |
 | [CDN源站IP发现技术](cdn-source-ip-discovery.html) | 6种源站发现方法 |
 | [JA3/JA4指纹识别指南](ja3-fingerprint-guide.html) | TLS指纹原理与检测应用 |
+| [WAF指纹识别与绕过层级](waf-fingerprint-2026.html) | 四层防护逐层验证思路（2026） |
 
 ## 核心内容
 
