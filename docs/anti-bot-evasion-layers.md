@@ -50,3 +50,8 @@ IP信誉、请求频率、鼠标轨迹、会话一致性。
 
 - [JA3指纹识别指南](ja3-fingerprint-guide.md)
 - [Cloudflare 5秒盾拆解](cloudflare-5-second-shield.md)
+
+### English Resources
+
+- [Anti-Bot & Cloudflare Bypass Guide](https://zerodawnlab.com/cloudflare-bypass.html)
+- [Free IP Stresser Tools 2026](https://zerodawnlab.com/free-ip-stresser-booter-tools-2026.html)

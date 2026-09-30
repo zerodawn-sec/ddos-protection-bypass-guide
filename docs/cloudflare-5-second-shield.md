@@ -59,3 +59,8 @@ Turnstile是Cloudflare 2023年推出的无感验证，取代了reCAPTCHA：
 ---
 
 *相关阅读: [Cloudflare验证绕过技术分析](https://zerodawnsec.com/cloudflare-bypass.html)*
+
+### English Resources
+
+- [Cloudflare Bypass Techniques](https://zerodawnlab.com/cloudflare-bypass.html)
+- [CDN Origin Protection & Bypass](https://zerodawnlab.com/cdn-bypass.html)
